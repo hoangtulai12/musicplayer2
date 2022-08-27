@@ -26,7 +26,7 @@ const app= {
         {
             title: 'Sweet but Psycho',
             singer: 'Ava Max',
-            path: '/musics/Ava-Max-Sweet-but-Psycho-Official-Music-Video.mp3',
+            path: 'https://github.com/hoangtulai12/musicplayer2/blob/main/musics/Ava-Max-Sweet-but-Psycho-Official-Music-Video.mp3',
             image:'/assets/sweet-but-psycho.JPG'
             
         },
