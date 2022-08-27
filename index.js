@@ -20,47 +20,47 @@ const app= {
         {
             title: 'Nevada',
             singer: 'Vicetone',
-            path: '/musics/Nevada Lyrics  Vicetone feat Cozi Zuehlsdorff.mp3',
-            image:'/assets/nevada.JPG'
+            path: 'musics/Nevada Lyrics  Vicetone feat Cozi Zuehlsdorff.mp3',
+            image:'assets/nevada.JPG'
         },
         {
             title: 'Sweet but Psycho',
             singer: 'Ava Max',
-            path: 'https://github.com/hoangtulai12/musicplayer2/blob/main/musics/Ava-Max-Sweet-but-Psycho-Official-Music-Video.mp3',
-            image:'/assets/sweet-but-psycho.JPG'
+            path: 'musics/Ava-Max-Sweet-but-Psycho-Official-Music-Video.mp3',
+            image:'assets/sweet-but-psycho.JPG'
             
         },
         {
             title: 'Đế Vương Remix',
             singer: 'Dunghoangpham x Đình Dũng x Ciray',
-            path: '/musics/de-vuong.mp3',
-            image:'/assets/de-vuong.JPG'
+            path: 'musics/de-vuong.mp3',
+            image:'assets/de-vuong.JPG'
         },
         {
             title: 'Xem Như Em Chẳng May Remix',
             singer: 'Chu Thuý Quỳnh Đại Mèo Remix',
-            path: '/musics/ngot-ngao-den-may-cung-tan-thanh-may.mp3',
-            image:'/assets/xemnhuemchangmay.JPG'
+            path: 'musics/ngot-ngao-den-may-cung-tan-thanh-may.mp3',
+            image:'assets/xemnhuemchangmay.JPG'
             
         },
         {
             title: 'Thế Thái',
             singer: 'Hương Ly',
-            path: '/musics/the-thai.mp3',
-            image:'/assets/the-thai.JPG'
+            path: 'musics/the-thai.mp3',
+            image:'assets/the-thai.JPG'
             
         },
         {
             title: 'Tự Em Đa Tình',
             singer: 'Quinn',
-            path: '/musics/tu-em-da-tinh.mp3',
-            image:'/assets/tuemdatinh.JPG'
+            path: 'musics/tu-em-da-tinh.mp3',
+            image:'assets/tuemdatinh.JPG'
         },
         {
             title: 'Vui Lắm Nha Remix',
             singer: 'Hương Ly',
-            path: '/musics/vui-lam-nha.mp3',
-            image:'/assets/vui-lam-nha.JPG'
+            path: 'musics/vui-lam-nha.mp3',
+            image:'assets/vui-lam-nha.JPG'
             
         }
     
