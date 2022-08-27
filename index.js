@@ -6,7 +6,6 @@ const x = $('.cd-thumb').offsetHeight
 let z = $('.cd-thumb').offsetWidth  
 
 const SETTING_KEY = "save_config"
-
 const app= {
     IsActiveItem : false,
     IsRandomsong : false,
